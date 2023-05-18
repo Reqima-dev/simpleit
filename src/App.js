@@ -11,7 +11,7 @@ import NotFound from "./pages/NotFound/NotFound";
 import Contact from "./pages/Contact";
 function App() {
   return (
-    <BrowserRouter basename="/techrun">
+    <BrowserRouter basename="/simpleit">
       <Routes>
         <Route element={<Layout />}>
           <Route path="/" element={<Navigate to="/home" />} />

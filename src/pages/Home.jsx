@@ -11,7 +11,7 @@ import CHooseArea from "../UI/CHooseArea";
 import VideoArea from "../UI/VideoArea";
 import WorkingProcess from "../UI/WorkingProcess";
 import TeamArea from "../UI/TeamArea";
-import PricingPlan from "../UI/PricingPlan";
+// import PricingPlan from "../UI/PricingPlan";
 import Testimonials from "../UI/Testimonials";
 import BLogArea from "../UI/BLogArea";
 import CtaArea from "../UI/CtaArea";

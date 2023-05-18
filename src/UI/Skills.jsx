@@ -1,7 +1,6 @@
 import React from "react";
 import "../styles/aboutArea.css";
-import SkillsAreaImg from "../assets/01 (1).png";
-import { Link } from "react-router-dom";
+import SkillsAreaImg from "../assets/01 (1).png"; 
 
 const Skills = () => {
   return (

@@ -117,6 +117,7 @@ const Contact = () => {
             allowfullscreen=""
             loading="lazy"
             referrerpolicy="no-referrer-when-downgrade"
+            title="Adresse Google Maps Simple IT"
           ></iframe>
         </div>
       </section>

@@ -1,6 +1,5 @@
 import React from "react";
-import "../styles/choseArea.css";
-import { Link } from "react-router-dom";
+import "../styles/choseArea.css"; 
 import SkillsAreaImg2 from "../assets/01 (2).png";
 
 const CHooseArea = () => {

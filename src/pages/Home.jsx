@@ -8,7 +8,7 @@ import Skills from "../UI/Skills";
 import CounterArea from "../UI/CounterArea";
 import CasesArea from "../UI/CasesArea";
 import CHooseArea from "../UI/CHooseArea";
-import VideoArea from "../UI/VideoArea";
+// import VideoArea from "../UI/VideoArea";
 import WorkingProcess from "../UI/WorkingProcess";
 import TeamArea from "../UI/TeamArea";
 // import PricingPlan from "../UI/PricingPlan";

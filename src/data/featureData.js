@@ -1,5 +1,5 @@
 import { GiComputing } from "react-icons/gi";
-import { FaPaperPlane } from "react-icons/fa";
+import { AiOutlineCloudServer } from "react-icons/ai";
 import { VscFileCode } from "react-icons/vsc";
 import { AiOutlineGlobal } from "react-icons/ai";
 
@@ -7,16 +7,16 @@ export const feature = [
   {
     id: 1,
     icon: <GiComputing />,
-    title: "Gestion IT",
+    title: "Genie Logiciel",
     paragraph:
-      "La gestion des technologies de l'information (IT) fait référence à la supervision et à la coordination des ressources, des processus et des activités liés aux technologies de l'information au sein d'une organisation.",
+      "Le génie logiciel vise à créer des logiciels de qualité répondant aux besoins des utilisateurs. Il implique l'analyse, la conception, la programmation, les tests et la maintenance des logiciels.",
   },
   {
     id: 2,
-    icon: <FaPaperPlane />,
-    title: "Prix ​​​​abordable",
+    icon: <AiOutlineCloudServer />,
+    title: "Cloud Computing",
     paragraph:
-      "Cela permet à un large éventail de personnes, indépendamment de leur statut socio-économique, d'avoir accès à des produits et services essentiels, ce qui favorise l'égalité des chances et la cohésion sociale.",
+      "Le cloud computing permet l'accès à des services informatiques à distance via Internet, offrant flexibilité, scalabilité et réduction des coûts, sans nécessiter d'infrastructure locale.",
   },
   {
     id: 3,

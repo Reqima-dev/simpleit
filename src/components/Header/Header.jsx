@@ -18,16 +18,16 @@ const navLinks = [
   // },
   {
     path: "/service",
-    display: "Services",
+    display: "Nos Services",
   },
   {
     path: "/project",
-    display: "Products",
+    display: "Nos Products",
   },
-  {
-    path: "/blog",
-    display: "BLOG",
-  },
+  // {
+  //   path: "/blog",
+  //   display: "BLOG",
+  // },
   {
     path: "/contact",
     display: "Contact",

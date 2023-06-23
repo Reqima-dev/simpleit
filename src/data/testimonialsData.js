@@ -10,7 +10,7 @@ export const testiData = [
     nameAvatar: "Gordon D Novak",
     occupation: "Founder & CEO",
     paragraph:
-      "There are many variations of passages available but the majority have suffered alteration in some form by injected.",
+      "Simple IT a mis en place un réseau informatique robuste et fiable pour notre entreprise. Leur expertise en matière de networking nous a permis de bénéficier d'une connectivité optimale et d'une performance réseau exceptionnels.",
   },
   {
     id: 2,
@@ -18,7 +18,7 @@ export const testiData = [
     nameAvatar: "Gordon D Novak",
     occupation: "Founder & CEO",
     paragraph:
-      "There are many variations of passages available but the majority have suffered alteration in some form by injected.",
+      "L'équipe de conception UX/UI de Simple IT a créé une interface esthétique et intuitive qui a suscité des réactions positives de la part de nos utilisateurs. Nous sommes ravis de leur travail.",
   },
   {
     id: 3,
@@ -26,7 +26,7 @@ export const testiData = [
     nameAvatar: "Gordon D Novak",
     occupation: "Founder & CEO",
     paragraph:
-      "There are many variations of passages available but the majority have suffered alteration in some form by injected.",
+      "Je suis impressionné par les compétences de Simple IT en matière de développement de logiciels. Ils ont su transformer notre vision en réalité et ont dépassé toutes nos attentes.F",
   },
   {
     id: 4,
@@ -34,6 +34,6 @@ export const testiData = [
     nameAvatar: "Gordon D Novak",
     occupation: "Founder & CEO",
     paragraph:
-      "There are many variations of passages available but the majority have suffered alteration in some form by injected.",
+      "L'équipe de développement d'applications mobiles de Simple IT est très professionnelle et compétente. Ils ont su répondre à toutes nos exigences et ont livré l'application dans les délais impartis.",
   },
 ];

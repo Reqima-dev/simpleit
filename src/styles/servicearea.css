@@ -1,17 +1,15 @@
 .service_area {
   position: relative;
-  overflow: hidden;
   padding: 80px 0;
   background-color: #f8f9ff;
+  width: 100%;
 }
 .service_areaContent {
   display: flex;
   align-items: center;
   justify-content: center;
   width: 100%;
-  padding: 0 125px;
-  margin-right: auto;
-  margin-left: auto;
+
   flex-direction: column;
 }
 .headArea {
@@ -147,6 +145,7 @@
 
 .service_item p {
   padding-top: 10px;
+  text-align: justify;
 }
 
 .service-arrow .service-read-btn {
@@ -167,8 +166,9 @@
     align-items: center;
     justify-content: center;
     gap: 20px;
-    width: 1200px;
+    width: 1300px;
     height: 100%;
+    padding: 0 50px;
     position: relative;
   }
 }

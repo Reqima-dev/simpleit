@@ -4,7 +4,7 @@ import { feature } from "../data/featureData";
 
 const Feature = () => {
   return (
-    <section className="feature_area container">
+    <section className="feature_area">
       <div className="featureContainer">
         {feature.map((item, i) => {
           if (i === 2) {

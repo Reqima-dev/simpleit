@@ -17,7 +17,7 @@ const About = () => {
   return (
     <Helmet title="About US">
       <main>
-        <PageHero pageTitle={"About US"} currentPage={"About"} />
+        <PageHero pageTitle={"A propos"} currentPage={"a propos"} />
         <AboutArea />
         <CounterArea />
         <Testimonials />

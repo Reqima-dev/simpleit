@@ -11,7 +11,7 @@ const Service = () => {
   return (
     <Helmet title="Our Service">
       <main>
-        <PageHero pageTitle={"Service"} currentPage={"Service"} />
+        <PageHero pageTitle={"Nos Service"} currentPage={"service"} />
         <br />
         <br />
         <br />

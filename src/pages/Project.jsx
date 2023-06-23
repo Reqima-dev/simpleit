@@ -10,7 +10,7 @@ const Project = () => {
   return (
     <Helmet title="Our Projects">
       <main>
-        <PageHero pageTitle={"Project"} currentPage={"Project"} />
+        <PageHero pageTitle={"Nos Produits"} currentPage={"produits"} />
         <br />
         <br />
         <br />

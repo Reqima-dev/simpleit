@@ -17,7 +17,7 @@ const PageHero = ({ pageTitle, content, currentPage }) => {
         <div className="heroBackLink">
           <button onClick={handleGoBack}>
             <i class="bx bx-home"></i>
-            Home
+            Accueil
           </button>
           <span className="currentPage">
             <i class="bx bx-chevrons-right"></i>

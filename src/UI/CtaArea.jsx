@@ -11,7 +11,9 @@ const CtaArea = () => {
           <h5>NOUS OFFRONS UN SERVICE DE QUALITÉ</h5>
           <h2>Solutions informatiques et services technologiques</h2>
 
-          <Link className="cta-btn">CONTACTEZ-NOUS</Link>
+          <Link to="/contact" className="cta-btn ">
+            CONTACTEZ-NOUS
+          </Link>
         </div>
       </div>
       <div className="cta-shape">

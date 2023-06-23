@@ -10,23 +10,23 @@ const Hero = () => {
       <div class="hero_wrapper">
         <div class="heroContainer container">
           <div class="left">
-            <h6>LES MEILLEURES SOLUTIONS INFORMATIQUES POUR VOUS</h6>
             <h1>
-              ENTREPRISE DE SOLUTIONS INFORMATIQUES ET DE SERVICES
-              TECHNOLOGIQUES
+              Des solutions évolutives et robustes avec les technologies
+              Microsoft
             </h1>
             <p>
-              Simple IT privilégie les technologies MICROSOFT telles que .NET,
-              SQLServer, WINDOWS AZURE. Cette orientation et l’expertise qui
-              s’en dégage nous permettent de proposer à notre clientèle des
-              solutions évolutives et robustes.
+              Nous sommes une entreprise qui se spécialise dans les services
+              technologiques et les solutions informatiques. En mettant l'accent
+              sur les technologies Microsoft telles que .NET, SQL Server et
+              Windows Azure, nous proposons à nos clients des solutions
+              informatiques solides et évolutives.
             </p>
             <div class="heroBTN">
               <Link to="/contact" className="btnTheme2 theme-btn">
-                Contact Nous
+                Contactez-nous
               </Link>
               <Link to="/about" className="btnTheme theme-btn">
-                About Nous
+                Qui sommes nous ?
               </Link>
             </div>
           </div>

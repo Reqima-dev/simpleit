@@ -115,7 +115,7 @@ const Footer = () => {
                   <input
                     type="email"
                     className="form-control"
-                    placeholder="Your e-mail"
+                    placeholder="Email"
                   />
                   <button class="theme-btn" type="submit">
                     Aboone toi <i class="bx bx-paper-plane"></i>

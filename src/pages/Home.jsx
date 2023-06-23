@@ -36,12 +36,12 @@ const Home = () => {
         <CounterArea />
         <CasesArea />
         <CHooseArea />
-        <VideoArea />
+        {/* <VideoArea /> */}
         <WorkingProcess />
         <TeamArea />
         {/* <PricingPlan /> */}
         <Testimonials />
-        <BLogArea />
+        {/* <BLogArea /> */}
         <CtaArea />
         <Partners />
       </main>

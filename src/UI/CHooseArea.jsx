@@ -1,7 +1,7 @@
 import React from "react";
-import "../styles/choseArea.css"; 
+import "../styles/choseArea.css";
 import SkillsAreaImg2 from "../assets/01 (2).png";
-
+import { Link } from "react-router-dom";
 const CHooseArea = () => {
   return (
     <div className="choice_area">
@@ -53,10 +53,6 @@ const CHooseArea = () => {
               </div>
             </li>
           </ul>
-
-          <button className="theme-btn">
-            <Link to="#.">COMMENCER LE PROJET</Link>
-          </button>
         </div>
         <div className="choiceRight">
           <img src={SkillsAreaImg2} alt="SkillsAreaImg2" />

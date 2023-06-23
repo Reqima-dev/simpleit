@@ -19,8 +19,6 @@
   background-color: #fff;
   z-index: 10;
   width: 100%;
-  justify-content: center;
-  gap: 60px;
 }
 
 @keyframes slide-down {
@@ -50,8 +48,8 @@
 }
 
 .logoHeader {
- width: 108px;
-    height: 75px;
+  width: 108px;
+  height: 75px;
 }
 .logoHeader:hover img {
   transform: scale(1.1);

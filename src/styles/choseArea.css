@@ -36,7 +36,7 @@
 .choice_areaContainer .choiceLeft .site-heading h2 {
   font-weight: 700;
   text-transform: capitalize;
-  font-size: 48px;
+  font-size: 40px;
   color: #1f2471;
   margin-top: 5px;
   margin-bottom: 0;
@@ -136,7 +136,7 @@
 }
 
 .choiceRight img {
-  width: 550px;
+  width: 450px;
   height: 100%;
   object-fit: cover;
   transition: var(--transition);

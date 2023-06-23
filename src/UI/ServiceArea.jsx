@@ -16,12 +16,7 @@ export function ServiceContent() {
               <Link to="#.">{item.title} </Link>
             </div>
             <p>{item.paragraph}</p>
-            <div className="service-arrow">
-              <Link to="#." class="service-read-btn">
-                En savoir plus
-                <span class="material-icons-sharp"> trending_flat </span>
-              </Link>
-            </div>
+            <div className="service-arrow"></div>
           </div>
         );
       })}
